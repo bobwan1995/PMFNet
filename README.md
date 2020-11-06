@@ -50,7 +50,8 @@ mkdir data
   Download the coco images and annotations from [coco website](http://cocodataset.org/#download).
 
   **Our data**:
-  Download the our dataset annotations and detection/keypoint proposals from [our data](https://pan.baidu.com/s/1tgBgTm8LEpAZvlQrrahyBA).
+  Download the our dataset annotations and detection/keypoint proposals from [Google Drive](https://drive.google.com/drive/folders/15ENuV2sUWjZLuAfpv_hsiksRAKiTukLT?usp=sharing) and [BaiduYun](https://pan.baidu.com/s/1tgBgTm8LEpAZvlQrrahyBA).
+  
   
   **Pose estimatiotn**
   We use the repo [pytorch-cpn](https://github.com/GengDavid/pytorch-cpn) to train our pose estimator. We have released our keypoint predictions of vcoco dataset on our data.
